@@ -1,0 +1,13 @@
+---
+- !ruby/object:Contact
+  phone_numbers: []
+  addresses: []
+  first_name: Ivan
+  middle_name: 
+  last_name: Jankovic
+- !ruby/object:Contact
+  phone_numbers: []
+  addresses: []
+  first_name: Nick
+  middle_name: Avery
+  last_name: Pettit

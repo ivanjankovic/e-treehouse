@@ -38,19 +38,34 @@ Introduction to Git           - 186 min
 	- exploring the repo on github
 _______________________________________  
 
+completed in July  
+_______________________________________   
+https://teamtreehouse.com/library/git-branches-and-merging 
+
+Git Branches and Merging           - 101 min
+- Branches
+  - what are branches?
+  - creating branches
+  - another topic branch
+  - branches based on other topic branches
+- Merging
+- Remote Branches
+- Branches on Git Hosting Services
+_______________________________________  
+
+
 total time 
 
 Badges	Challenges	Videos	Quizzes
 
 
-for Jun
+next to learn
 
-more ruby and
+more ruby https://teamtreehouse.com/library/topic:ruby/type:course
+
+and
+
 https://teamtreehouse.com/library/asynchronous-programming-with-javascript
 https://teamtreehouse.com/library/prototyping-with-adobe-xd
 https://teamtreehouse.com/library/design-systems
 https://teamtreehouse.com/library/your-first-c-program
-
- 
-
-https://teamtreehouse.com/library/topic:ruby/type:course

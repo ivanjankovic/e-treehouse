@@ -67,8 +67,12 @@ GitHub Basics                 - 139 min
   - conflict resolution
 - Working on a Team
   - crating an organization
-  - 
+  - creating a team
+  - craeting a repository in your organization
+  - open a pull request for your team to review
+  - workflow demonstartion
 - Create a Web Presence on GitHub
+  - 
 - Get Involved in Open Source
 _______________________________________  
 

@@ -58,9 +58,16 @@ Git Branches and Merging      - 101 min
 
 GitHub Basics                 - 139 min
 - Hello, GitHub!
-  - 
 - Working By Yourself
+  - push your projects to github
+  - using issues
+  - mastering markdown
+  - create a branch
+  - open a pull request
+  - conflict resolution
 - Working on a Team
+  - crating an organization
+  - 
 - Create a Web Presence on GitHub
 - Get Involved in Open Source
 _______________________________________  

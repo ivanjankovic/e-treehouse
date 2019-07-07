@@ -77,7 +77,10 @@ GitHub Basics                 - 139 min
   - create a project website
 - Get Involved in Open Source
   - introduction to open source
-  - 
+  - how to find an open source project
+  - contibuting to a project with an issue
+  - creating your own fork of an open-source repository
+  - contributing to a project with a pull request
 _______________________________________  
 
 

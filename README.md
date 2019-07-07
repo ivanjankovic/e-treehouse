@@ -41,16 +41,28 @@ _______________________________________
 completed in July  
 _______________________________________   
 https://teamtreehouse.com/library/git-branches-and-merging 
+https://teamtreehouse.com/library/github-basics
+_______________________________________   
 
-Git Branches and Merging           - 101 min
+Git Branches and Merging      - 101 min
 - Branches
   - what are branches?
   - creating branches
   - another topic branch
   - branches based on other topic branches
+  - viewing diffrences bbetween branches
+  - branches behind the scenes
 - Merging
 - Remote Branches
 - Branches on Git Hosting Services
+
+GitHub Basics                 - 139 min
+- Hello, GitHub!
+  - 
+- Working By Yourself
+- Working on a Team
+- Create a Web Presence on GitHub
+- Get Involved in Open Source
 _______________________________________  
 
 

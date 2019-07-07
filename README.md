@@ -72,8 +72,12 @@ GitHub Basics                 - 139 min
   - open a pull request for your team to review
   - workflow demonstartion
 - Create a Web Presence on GitHub
-  - 
+  - introduction to github pages
+  - create a personal website
+  - create a project website
 - Get Involved in Open Source
+  - introduction to open source
+  - 
 _______________________________________  
 
 

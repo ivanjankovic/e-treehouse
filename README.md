@@ -93,6 +93,19 @@ GitHub Basics                 - 139 min
 
 https://teamtreehouse.com/library/github-basics
 
+
+Ruby Modules              -120min
+
+- Ruby Module Basics
+  - what are modules
+  - write simple module
+  - namespaces
+- Ruby Core Modules
+  - comparable
+  - math
+  - enumerable
+- Include and Extend
+  - 
 _______________________________________  
 
 total time 
@@ -103,7 +116,10 @@ _______________________________________
 
 next to learn
 
-more ruby https://teamtreehouse.com/library/topic:ruby/type:course
+more ruby https://teamtreehouse.com/library/topic:ruby/type:course/q:-rails--sinatra
+https://teamtreehouse.com/library/ruby-modules
+https://teamtreehouse.com/library/ruby-core-and-standard-library
+
 https://teamtreehouse.com/library/asynchronous-programming-with-javascript
 https://teamtreehouse.com/library/prototyping-with-adobe-xd
 https://teamtreehouse.com/library/design-systems

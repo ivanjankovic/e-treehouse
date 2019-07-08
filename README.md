@@ -53,6 +53,9 @@ Git Branches and Merging      - 101 min
   - viewing diffrences bbetween branches
   - branches behind the scenes
 - Merging
+  - merging branches
+  - merging into topic branches
+  - resolving merge conflicts
 - Remote Branches
 - Branches on Git Hosting Services
 

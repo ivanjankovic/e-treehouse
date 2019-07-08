@@ -40,9 +40,6 @@ _______________________________________
 
 completed in July  
 _______________________________________   
-https://teamtreehouse.com/library/git-branches-and-merging 
-https://teamtreehouse.com/library/github-basics
-_______________________________________   
 
 Git Branches and Merging      - 101 min
 - Branches
@@ -57,9 +54,18 @@ Git Branches and Merging      - 101 min
   - merging into topic branches
   - resolving merge conflicts
 - Remote Branches
+  - remote branches
+  - local tracking branches
+  - pulling commits
+  - pushing a branch
+  - deleting a remote branch
 - Branches on Git Hosting Services
 
+https://teamtreehouse.com/library/git-branches-and-merging 
+
+
 GitHub Basics                 - 139 min
+
 - Hello, GitHub!
 - Working By Yourself
   - push your projects to github
@@ -84,20 +90,20 @@ GitHub Basics                 - 139 min
   - contibuting to a project with an issue
   - creating your own fork of an open-source repository
   - contributing to a project with a pull request
-_______________________________________  
 
+https://teamtreehouse.com/library/github-basics
+
+_______________________________________  
 
 total time 
 
 Badges	Challenges	Videos	Quizzes
 
+_______________________________________  
 
 next to learn
 
 more ruby https://teamtreehouse.com/library/topic:ruby/type:course
-
-and
-
 https://teamtreehouse.com/library/asynchronous-programming-with-javascript
 https://teamtreehouse.com/library/prototyping-with-adobe-xd
 https://teamtreehouse.com/library/design-systems

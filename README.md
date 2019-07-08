@@ -105,7 +105,7 @@ Ruby Modules              -120min
   - math
   - enumerable
 - Include and Extend
-  - 
+  - include
 _______________________________________  
 
 total time 

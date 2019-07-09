@@ -128,6 +128,30 @@ Introduction to Algorithms    - 134 min
 https://teamtreehouse.com/library/introduction-to-algorithms
 
 _______________________________________  
+_______________________________________
+Introduction to Data Structures - 163 min
+
+- Exploring Arrays
+  - introduction
+  - array basics
+  - array characteristics and storage
+  - accessing a value in an array
+  - array search insert and delete
+  - operations on arrays
+- Building a Linked List
+  - what is a linked lists
+  - singly and doubly linked lists
+  - adding nodes to a linked list
+  - implementing search
+  - insert a node
+  - remove a node
+  - linked lists operations
+- The Merge Sort Algorithm
+- Merge Sort and Linked Lists
+
+https://teamtreehouse.com/library/introduction-77
+
+_______________________________________  
 
 total time 
 

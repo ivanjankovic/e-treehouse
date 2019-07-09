@@ -38,9 +38,10 @@ Introduction to Git           - 186 min
 	- exploring the repo on github
 _______________________________________  
 
+---------------------------------------
 completed in July  
+---------------------------------------
 _______________________________________   
-
 Git Branches and Merging      - 101 min
 - Branches
   - what are branches?
@@ -63,7 +64,7 @@ Git Branches and Merging      - 101 min
 
 https://teamtreehouse.com/library/git-branches-and-merging 
 
-
+_______________________________________
 GitHub Basics                 - 139 min
 
 - Hello, GitHub!
@@ -93,8 +94,8 @@ GitHub Basics                 - 139 min
 
 https://teamtreehouse.com/library/github-basics
 
-
-Ruby Modules              -120min
+_______________________________________
+Ruby Modules                  - 120 min
 
 - Ruby Module Basics
   - what are modules
@@ -106,6 +107,26 @@ Ruby Modules              -120min
   - enumerable
 - Include and Extend
   - include
+
+https://teamtreehouse.com/library/ruby-modules
+
+_______________________________________
+Introduction to Algorithms    - 134 min
+
+- Playing a Counting Game
+  - what is an algorithm?
+  - guess the number
+  - defining an algorithm
+  - eveluating linear search
+  - evaluating binary search
+- Time Complexity
+  - efficiency of an algorithm
+  - 
+- Algorithms in Code
+- Recursion and Space Complexity
+
+https://teamtreehouse.com/library/introduction-to-algorithms
+
 _______________________________________  
 
 total time 

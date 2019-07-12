@@ -110,6 +110,22 @@ Ruby Modules                  - 120 min
 
 https://teamtreehouse.com/library/ruby-modules
 
+________________________________________
+Ruby Core and Standard Library - 121 min
+
+- Ruby Core
+  - introduction to ruby core
+  - struct
+  - kernel and object
+  - file
+  - marshal
+- Ruby Standard Library: Part 1
+  - 
+- Ruby Standard Library: Part 2
+  - 
+
+https://teamtreehouse.com/library/ruby-core-and-standard-library
+
 _______________________________________
 Introduction to Algorithms    - 134 min
 
@@ -161,6 +177,9 @@ Algorithms: Sorting and Searching - 119 min
   - recusion
   - quicksort
   - implemeting quicksort
+  - merge sort
+  - actual run time for sorting algorithms
+  - big-o run times of sorting algorithms
 - Searching Names
   - linear search
   - sorting names

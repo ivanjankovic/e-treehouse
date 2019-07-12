@@ -1,5 +1,5 @@
 
-May                               ~ 12H
+## May                            ~ 12H
 _______________________________________   
 
 Ruby Basics                   - 169 min   
@@ -22,10 +22,10 @@ _______________________________________
 
 Git Branches and Merging      - 101 min   
 GitHub Basics                 - 139 min   
-Ruby Modules                  - 120 min   
-Ruby Core & Standard Library  - 121 min   
-Introduction to Algorithms    - 134 min   
-Introduction Data Structures  - 163 min   
+* [ ] Ruby Modules                  - 120 min   
+* [ ] Ruby Core & Standard Library  - 121 min   
+* [ ] Introduction to Algorithms    - 134 min   
+* [ ] Introduction Data Structures  - 163 min   
 Algorithm Sorting & Searching - 119 min
 _______________________________________ 
 

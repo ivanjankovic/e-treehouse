@@ -1,5 +1,5 @@
-
-## May                            ~ 12H
+```
+May                            ~ 12H
 _______________________________________   
 
 Ruby Basics                   - 169 min   
@@ -10,23 +10,25 @@ Ruby Blocks                   -  96 min
 Build an Address Book in Ruby - 109 min   
 Ruby Gems                     -  48 min
 _______________________________________  
-
+```
+```
 Jun                                ~ 3H
 _______________________________________   
 
 Introduction to Git           - 186 min
 _______________________________________ 
+```
 
 July                              ~ 15H
 _______________________________________   
 
-Git Branches and Merging      - 101 min   
-GitHub Basics                 - 139 min   
+* [ ] Git Branches and Merging      - 101 min   
+* [ ] GitHub Basics                 - 139 min   
 * [ ] Ruby Modules                  - 120 min   
 * [ ] Ruby Core & Standard Library  - 121 min   
 * [ ] Introduction to Algorithms    - 134 min   
 * [ ] Introduction Data Structures  - 163 min   
-Algorithm Sorting & Searching - 119 min
+* [ ] Algorithm Sorting & Searching - 119 min
 _______________________________________ 
 
 

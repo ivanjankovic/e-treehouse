@@ -127,8 +127,7 @@ Introduction to Algorithms    - 134 min
 
 https://teamtreehouse.com/library/introduction-to-algorithms
 
-_______________________________________  
-_______________________________________
+_________________________________________
 Introduction to Data Structures - 163 min
 
 - Exploring Arrays
@@ -151,12 +150,34 @@ Introduction to Data Structures - 163 min
 
 https://teamtreehouse.com/library/introduction-77
 
+___________________________________________
+Algorithms: Sorting and Searching - 119 min
+
+- Sorting Algorithms
+  - sorting and searching
+  - bogosort
+  - selection sort
+  - getting the run time of a program
+  - recusion
+  - quicksort
+  - implemeting quicksort
+- Searching Names
+  - linear search
+  - sorting names
+  - binary search
+  - big o runtime of search algorithms
+
+https://teamtreehouse.com/library/algorithms-sorting-and-searching
+
 _______________________________________  
 
 total time 
 
 Badges	Challenges	Videos	Quizzes
 
+
+
+_______________________________________  
 _______________________________________  
 
 next to learn

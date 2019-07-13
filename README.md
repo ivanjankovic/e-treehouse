@@ -46,6 +46,7 @@ NEXT
 more ruby https://teamtreehouse.com/library/topic:ruby/type:course/q:-rails--sinatra
 https://teamtreehouse.com/library/ruby-modules
 https://teamtreehouse.com/library/ruby-core-and-standard-library
+https://teamtreehouse.com/library/ruby-on-rails-5-basics
 
 https://teamtreehouse.com/library/asynchronous-programming-with-javascript
 https://teamtreehouse.com/library/prototyping-with-adobe-xd

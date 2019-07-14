@@ -37,17 +37,17 @@ _______________________________________
 
 ```
 
-<img width="1148" alt="Screen Shot 2019-07-14 at 12 36 27 AM" src="https://user-images.githubusercontent.com/13816039/61179393-8b932380-a5cf-11e9-92aa-b421508fa0af.png">
+<img width="1196" alt="0619-1" src="https://user-images.githubusercontent.com/13816039/61179569-06117280-a5d3-11e9-88fa-877e183c5bd8.png">
 
 
 NEXT
 
-Ruby:
-https://teamtreehouse.com/library/type:course/q:ruby
-https://teamtreehouse.com/library/ruby-on-rails-5-basics
+Ruby:  
+https://teamtreehouse.com/library/type:course/q:ruby  
+https://teamtreehouse.com/library/ruby-on-rails-5-basics  
 
-Rest:
-https://teamtreehouse.com/library/asynchronous-programming-with-javascript
-https://teamtreehouse.com/library/prototyping-with-adobe-xd
-https://teamtreehouse.com/library/design-systems
-https://teamtreehouse.com/library/your-first-c-program
+Rest:  
+https://teamtreehouse.com/library/asynchronous-programming-with-javascript  
+https://teamtreehouse.com/library/prototyping-with-adobe-xd  
+https://teamtreehouse.com/library/design-systems  
+https://teamtreehouse.com/library/your-first-c-program  

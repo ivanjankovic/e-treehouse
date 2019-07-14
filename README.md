@@ -1,5 +1,5 @@
 ```
-May                              ~ 12H
+May                               ~ 12H
 _______________________________________   
 
 Ruby Basics                   - 169 min   
@@ -22,32 +22,31 @@ _______________________________________
 
 ```
 
+```
 July                              ~ 15H
 _______________________________________   
 
-* [ ] Git Branches and Merging      - 101 min   
-* [ ] GitHub Basics                 - 139 min   
-* [ ] Ruby Modules                  - 120 min   
-* [ ] Ruby Core & Standard Library  - 121 min   
-* [ ] Introduction to Algorithms    - 134 min   
-* [ ] Introduction Data Structures  - 163 min   
-* [ ] Algorithm Sorting & Searching - 119 min
+Git Branches and Merging      - 101 min   
+GitHub Basics                 - 139 min   
+Ruby Modules                  - 120 min   
+Ruby Core & Standard Library  - 121 min   
+Introduction to Algorithms    - 134 min   
+Introduction Data Structures  - 163 min   
+Algorithm Sorting & Searching - 119 min
 _______________________________________ 
 
+```
 
+<img width="1148" alt="Screen Shot 2019-07-14 at 12 36 27 AM" src="https://user-images.githubusercontent.com/13816039/61179393-8b932380-a5cf-11e9-92aa-b421508fa0af.png">
 
-
-Badges	Challenges	Videos	Quizzes
-
-_______________________________________  
 
 NEXT
 
-more ruby https://teamtreehouse.com/library/topic:ruby/type:course/q:-rails--sinatra
-https://teamtreehouse.com/library/ruby-modules
-https://teamtreehouse.com/library/ruby-core-and-standard-library
+Ruby:
+https://teamtreehouse.com/library/type:course/q:ruby
 https://teamtreehouse.com/library/ruby-on-rails-5-basics
 
+Rest:
 https://teamtreehouse.com/library/asynchronous-programming-with-javascript
 https://teamtreehouse.com/library/prototyping-with-adobe-xd
 https://teamtreehouse.com/library/design-systems

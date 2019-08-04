@@ -37,10 +37,25 @@ _______________________________________
 
 ```
 
+```
+Aug                              ~ ?H
+_______________________________________
+
+Python Basics                 - 234 min
+Functional Python             - 158 min
+_______________________________________
+
+```
+
 <img width="1199" alt="0719" src="https://user-images.githubusercontent.com/13816039/61189088-436b1400-a656-11e9-8626-7b569f346073.png">  
 
 
 NEXT
+https://teamtreehouse.com/library/type:course/q:python 
+https://teamtreehouse.com/library/python-basics-3 
+https://teamtreehouse.com/library/functional-python 
+https://teamtreehouse.com/library/write-better-python 
+
 
 Ruby:  
 https://teamtreehouse.com/library/type:course/q:ruby  

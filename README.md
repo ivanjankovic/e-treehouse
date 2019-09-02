@@ -67,10 +67,10 @@ _______________________________________
 
 
 NEXT
+[Python Basics](https://teamtreehouse.com/library/python-basics-3) `234`
+[Functional Python](https://teamtreehouse.com/library/functional-python) `158`
+[Write Better Python](https://teamtreehouse.com/library/write-better-python)  `70`
 https://teamtreehouse.com/library/type:course/q:python 
-https://teamtreehouse.com/library/python-basics-3 
-https://teamtreehouse.com/library/functional-python 
-https://teamtreehouse.com/library/write-better-python 
 
 
 Ruby:  

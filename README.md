@@ -67,9 +67,9 @@ _______________________________________
 
 
 NEXT  
-[Python Basics](https://teamtreehouse.com/library/python-basics-3) `234`  
-[Functional Python](https://teamtreehouse.com/library/functional-python) `158`  
-[Write Better Python](https://teamtreehouse.com/library/write-better-python)  `70`  
+`234` [Python Basics](https://teamtreehouse.com/library/python-basics-3)   
+`158` [Functional Python](https://teamtreehouse.com/library/functional-python)    
+` 70` [Write Better Python](https://teamtreehouse.com/library/write-better-python)    
 [Python](https://teamtreehouse.com/library/type:course/q:python)  
 
 

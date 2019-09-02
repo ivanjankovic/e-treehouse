@@ -52,16 +52,8 @@ _______________________________________
 ```
 
 ```
-?                             ~ ?H
-_______________________________________
-
-Python Basics                 - 234 min
-Functional Python             - 158 min
-_______________________________________
-
+10H to 20H per month is good if you are working onn something else at the same time, if not you should do at lower end 30H
 ```
-
-~ 10H to 20H per month is good
 
 <img width="1199" alt="0719" src="https://user-images.githubusercontent.com/13816039/61189088-436b1400-a656-11e9-8626-7b569f346073.png">  
 
@@ -69,8 +61,8 @@ _______________________________________
 NEXT  
 `234` [Python Basics](https://teamtreehouse.com/library/python-basics-3)   
 `158` [Functional Python](https://teamtreehouse.com/library/functional-python)    
-` 70` [Write Better Python](https://teamtreehouse.com/library/write-better-python)    
-[Python](https://teamtreehouse.com/library/type:course/q:python)  
+`_70` [Write Better Python](https://teamtreehouse.com/library/write-better-python)    
+`___` [Python](https://teamtreehouse.com/library/type:course/q:python)  
 
 
 Ruby:  

@@ -23,7 +23,7 @@ _______________________________________
 ```
 
 ```
-July                              ~ 15H
+Jul                               ~ 15H
 _______________________________________   
 
 Git Branches and Merging      - 101 min   
@@ -38,7 +38,21 @@ _______________________________________
 ```
 
 ```
-Aug                              ~ ?H
+Aug                                ~ 7H
+_______________________________________
+
+The Landscape of JavaScript   -  44 min
+The JavaScript Ecosystem      -  29 min
+Introducing ES2015            - 112 min
+HTTP Basics                   -  67 min
+Node.js Basics                - 138 min
+Getting Started w TypeScript  -  43 min
+_______________________________________
+
+```
+
+```
+?                             ~ ?H
 _______________________________________
 
 Python Basics                 - 234 min
@@ -46,6 +60,8 @@ Functional Python             - 158 min
 _______________________________________
 
 ```
+
+~ 10H to 20H per month is good
 
 <img width="1199" alt="0719" src="https://user-images.githubusercontent.com/13816039/61189088-436b1400-a656-11e9-8626-7b569f346073.png">  
 

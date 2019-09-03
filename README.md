@@ -57,13 +57,17 @@ _______________________________________
 
 <img width="1199" alt="0719" src="https://user-images.githubusercontent.com/13816039/61189088-436b1400-a656-11e9-8626-7b569f346073.png">  
 
+![August progress](https://octodex.github.com/images/yaktocat.png)
+
 
 NEXT  
+`030` [Introduction to REST APIs](https://teamtreehouse.com/library/introduction-to-rest-apis)
+`...` [Node.js](https://teamtreehouse.com/library/type:course/q:node.js)
+`...` [Tracks](https://teamtreehouse.com/tracks)
 `234` [Python Basics](https://teamtreehouse.com/library/python-basics-3)   
 `158` [Functional Python](https://teamtreehouse.com/library/functional-python)    
-`_70` [Write Better Python](https://teamtreehouse.com/library/write-better-python)    
-`___` [Python](https://teamtreehouse.com/library/type:course/q:python)  
-
+`070` [Write Better Python](https://teamtreehouse.com/library/write-better-python)    
+`...` [Python](https://teamtreehouse.com/library/type:course/q:python)  
 
 Ruby:  
 [Ruby on Rails 5 Basics](https://teamtreehouse.com/library/ruby-on-rails-5-basics)  

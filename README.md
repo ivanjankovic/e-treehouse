@@ -55,9 +55,7 @@ _______________________________________
 10H to 20H per month is good if you are working onn something else at the same time, if not you should do at lower end 30H
 ```
 
-<img width="1199" alt="0719" src="https://user-images.githubusercontent.com/13816039/61189088-436b1400-a656-11e9-8626-7b569f346073.png">  
-
-![August progress](https://octodex.github.com/images/yaktocat.png)
+![August progress](./my_org_stats/0819.png)
 
 
 NEXT  

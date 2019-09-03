@@ -59,9 +59,9 @@ _______________________________________
 
 
 NEXT  
-`030` [Introduction to REST APIs](https://teamtreehouse.com/library/introduction-to-rest-apis)
-`...` [Node.js](https://teamtreehouse.com/library/type:course/q:node.js)
-`...` [Tracks](https://teamtreehouse.com/tracks)
+`030` [Introduction to REST APIs](https://teamtreehouse.com/library/introduction-to-rest-apis)  
+`...` [Node.js](https://teamtreehouse.com/library/type:course/q:node.js)  
+`...` [Tracks](https://teamtreehouse.com/tracks)  
 `234` [Python Basics](https://teamtreehouse.com/library/python-basics-3)   
 `158` [Functional Python](https://teamtreehouse.com/library/functional-python)    
 `070` [Write Better Python](https://teamtreehouse.com/library/write-better-python)    

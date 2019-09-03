@@ -51,12 +51,11 @@ _______________________________________
 
 ```
 
+![August](./my_org_stats/0819.png)
+
 ```
 10H to 20H per month is good if you are working onn something else at the same time, if not you should do at lower end 30H
 ```
-
-![August progress](./my_org_stats/0819.png)
-
 
 NEXT  
 `030` [Introduction to REST APIs](https://teamtreehouse.com/library/introduction-to-rest-apis)  

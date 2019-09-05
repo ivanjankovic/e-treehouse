@@ -1,58 +1,90 @@
-# Task description
-# This is a demo task.
+module Inventoryable
 
-# Write a function:
+  def self.included(klass)
+    klass.extend(ClassMethods)
+    klass.extend(Enumerable)
+  end
 
-# def solution(a)
+  module ClassMethods
+    def create(attributes)
+      object = new(atributes)
+      instance.push(obbject)
+      return object
+    end
 
-# that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A.
+    def instances
+      @instances ||= []
+    end
 
-# For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.
+    def each(&block)
+      instances.each(&block)
+    end
 
-# Given A = [1, 2, 3], the function should return 4.
-
-# Given A = [−1, −3], the function should return 1.
-
-# Write an efficient algorithm for the following assumptions:
-
-# N is an integer within the range [1..100,000];
-# each element of array A is an integer within the range [−1,000,000..1,000,000].
-
-
-def solution1(a)
-  smallest = 0
-
-  (1..1000000).each do |num|
-    if !a.include?(num)
-      smallest = num
-      break
+    def in_stock_report
+      puts "#{self.to_s} In Stock Report"
+      reportable = instances.select{ |instance| instance.in_stock? }
+      reportable.each do |item|
+        line = []
+        line.push("Item: #{item.attributes[:name]}")
+        line.push("Stock: #{item.stock_count}")
+        if item.attributes.include?(:size)
+          line.push("Size: #{item.attributes[:size]}")
+        end
+        puts line.join("\t")
+      end
+      puts "\n"
     end
   end
-
-  smallest
-end
-
-def solution2(a)
-  sorted_uniq = a.push(0).uniq.sort
-  zero_idx = sorted_uniq.index(0)
-  positive_arr = sorted_uniq[zero_idx+1..-1]
   
-  (1..1000000).each do |num|
-    if !positive_arr.include?(num)
-      return num
-    end
+  end
+
+  def stock_count
+    @stock_count ||= 0
+  end
+
+  def stock_count=(number)
+    @stock_count = number
+  end
+
+  def in_stock?
+    stock_count > 0
   end
 end
 
-def solution3(a)
-  sorted_uniq = a.push(0).uniq.sort
-  zero_idx = sorted_uniq.index(0)
-  positive_arr = sorted_uniq[zero_idx+1..-1]
-  
-  for int in 1..positive_arr.length
-    puts positive_arr[int - 1]
-    return int if int != positive_arr[int - 1]
-  end
+class Shirt
+  include Inventoryable
+  attr_accessor :atributes
 
-  positive_arr.length + 1
+  def initialize(attributes)
+    @attributes = attributes
+  end
 end
+
+class Pants
+  attr_accessor :atributes
+
+  def initialize(attributes)
+    @attributes = attributes
+  end
+end
+
+class Accessory
+  attr_accessor :atributes
+
+  def initialize(attributes)
+    @attributes = attributes
+  end
+end
+
+shirt1 = Shirt.create(name: 'MTF', size: 'L')
+shirt2 = Shirt.create(name: 'MTF', size: 'M')
+
+shirt1.stock_count = 10
+
+# puts 'Shirt 1 stock count: %s' % shirt1.stock_count
+# puts 'Shirt 2 stock count: %s' % shirt2.stock_count
+
+# puts 'Shirt 1 in stock?: %s' % shirt1.in_stock?
+# puts 'Shirt 2 in stock?: %s' % shirt2.in_stock?
+
+Shirt.instances

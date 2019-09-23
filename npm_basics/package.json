@@ -1,0 +1,16 @@
+{
+  "name": "hash_generator",
+  "version": "0.0.1",
+  "description": "A password hash generator",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "mocha": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ivan Jankovic",
+  "license": "MIT"
+}

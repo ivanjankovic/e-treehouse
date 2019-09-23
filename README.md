@@ -51,6 +51,20 @@ _______________________________________
 
 ```
 
+```
+Sep                                      ~ 8H
+_____________________________________________
+
+npm Basics                          -  76 min
+Introduction to REST APIs           -  30 min
+
+Simple Dynamic Site with Node.js    - 122 min
+Express Basics                      - 247 min
+Build a REST API With Express       - 221 min
+_____________________________________________
+
+```
+
 ![August](./my_org_stats/0819.png)
 
 ```
@@ -60,6 +74,7 @@ _______________________________________
 NEXT  
 `030` [Introduction to REST APIs](https://teamtreehouse.com/library/introduction-to-rest-apis)  
 `...` [Node.js](https://teamtreehouse.com/library/type:course/q:node.js)  
+`...` [React](https://teamtreehouse.com/library/type:course/q:React)  
 `...` [Tracks](https://teamtreehouse.com/tracks)  
 `234` [Python Basics](https://teamtreehouse.com/library/python-basics-3)   
 `158` [Functional Python](https://teamtreehouse.com/library/functional-python)    

@@ -52,27 +52,43 @@ _______________________________________
 ```
 
 ```
-Sep                                      ~ 8H
-_____________________________________________
+Sep                              100 videos ~ 11H
+_________________________________________________
 
-npm Basics                          -  76 min
-Introduction to REST APIs           -  30 min
+npm Basics                              -  76 min
+Introduction to REST APIs               -  30 min
+Express Basics                          - 247 min
+Mongo Basics                            -  87 min
+SQL Basics                              - 172 min
+Callback Functions in JavaScript        -  60 min
+_________________________________________________
 
-Simple Dynamic Site with Node.js    - 122 min
-Express Basics                      - 247 min
-Build a REST API With Express       - 221 min
-_____________________________________________
+```
+
+```
+Oct                                           
+_________________________________________________
+
+JavaScript Loops, Arrays and Objects
+JavaScript and the DOM
+AJAX Basics
+Modifying Data with SQL
+Asynchronous Programming w/ JavaScript  - 115 min
+Asynchronous Code in Express 
+REST APIs with Express
+Simple Dynamic Site with Node.js        - 122 min
+Build a REST API With Express           - 221 min
+_________________________________________________
 
 ```
 
 ![August](./my_org_stats/0819.png)
 
 ```
-10H to 20H per month is good if you are working onn something else at the same time, if not you should do at lower end 30H
+10H to 20H per month is good if you are working on something else at the same time, if not you should do at lower end 30H
 ```
 
 NEXT  
-`030` [Introduction to REST APIs](https://teamtreehouse.com/library/introduction-to-rest-apis)  
 `...` [Node.js](https://teamtreehouse.com/library/type:course/q:node.js)  
 `...` [React](https://teamtreehouse.com/library/type:course/q:React)  
 `...` [Tracks](https://teamtreehouse.com/tracks)  
@@ -90,3 +106,6 @@ Rest:
 [Prototyping with Adobe XD](https://teamtreehouse.com/library/prototyping-with-adobe-xd)  
 [Design Systems](https://teamtreehouse.com/library/design-systems)  
 [C# Basics](https://teamtreehouse.com/library/your-first-c-program)  
+
+DONE:  
+`030` [Introduction to REST APIs](https://teamtreehouse.com/library/introduction-to-rest-apis)  

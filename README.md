@@ -52,7 +52,7 @@ _______________________________________
 ```
 
 ```
-Sep                              100 videos ~ 11H
+Sep                              120 videos ~ 12H
 _________________________________________________
 
 npm Basics                              -  76 min
@@ -61,28 +61,28 @@ Express Basics                          - 247 min
 Mongo Basics                            -  87 min
 SQL Basics                              - 172 min
 Callback Functions in JavaScript        -  60 min
+Modifying Data with SQL                 -  80 min
 _________________________________________________
 
 ```
 
 ```
-Oct                                           
+Oct                                          1223  
 _________________________________________________
 
-JavaScript Loops, Arrays and Objects
-JavaScript and the DOM
-AJAX Basics
-Modifying Data with SQL
+JavaScript Loops, Arrays and Objects    - 266 min
+JavaScript and the DOM                  - 225 min
+AJAX Basics                             - 149 min
 Asynchronous Programming w/ JavaScript  - 115 min
-Asynchronous Code in Express 
-REST APIs with Express
+Asynchronous Code in Express            -  24 min
+REST APIs with Express                  - 101 min
 Simple Dynamic Site with Node.js        - 122 min
 Build a REST API With Express           - 221 min
 _________________________________________________
 
 ```
 
-![August](./my_org_stats/0819.png)
+![Sept](./my_org_stats/0919full.jpg)
 
 ```
 10H to 20H per month is good if you are working on something else at the same time, if not you should do at lower end 30H

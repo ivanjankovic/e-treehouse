@@ -67,17 +67,34 @@ _________________________________________________
 ```
 
 ```
-Oct                                          1223  
+Oct  
 _________________________________________________
 
+Vue.js Basics                           - 141 min
+_________________________________________________
+
+```
+
+```
+Dec  
+_________________________________________________
+
+Asynchronous Programming w/ JavaScript  - 115 min
+_________________________________________________
+
+```
+
+```
+Next                                         1108  
+_________________________________________________
+
+Asynchronous Code in Express            -  24 min
+REST APIs with Express                  - 101 min
+Build a REST API With Express           - 221 min
 JavaScript Loops, Arrays and Objects    - 266 min
 JavaScript and the DOM                  - 225 min
 AJAX Basics                             - 149 min
-Asynchronous Programming w/ JavaScript  - 115 min
-Asynchronous Code in Express            -  24 min
-REST APIs with Express                  - 101 min
 Simple Dynamic Site with Node.js        - 122 min
-Build a REST API With Express           - 221 min
 _________________________________________________
 
 ```
